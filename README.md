@@ -5,6 +5,6 @@ A lire pour bien utiliser l'application.
 3. Sauvegardez vos musiques en playlist avec le bouton "Sauvegarder la playlist".
 4. Ouvrez votre playlist avec le bouton "Charger une playlist".
 5. Ajoutez plus de musique avec le bouton "Ajouter plus de musique".
-~~6. Utilisez le cast pour diffuser sur d'autres appareils.~~ (cette partie sera disponible a la V4)
+6. Utilisez le cast pour diffuser sur d'autres appareils. (cette partie sera disponible a la V4)
 
 🎯 Astuce : Il y a un easter egg caché... 😉
