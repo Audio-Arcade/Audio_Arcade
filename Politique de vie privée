@@ -1,101 +1,165 @@
-Politique vie privée
-Politique de Vie Privée de Audio_Arcade
+Politique de Vie Privée – Audio_Arcade
 Date d'entrée en vigueur : 24/11/2024
 
-Date de modification : 31/07/2025
+Date de modification : 09/07/2026
 
-La confidentialité de vos données personnelles est une priorité pour nous. Cette politique explique que l’application Audio_Arcade ne collecte, ne stocke ni ne partage aucune donnée personnelle vous concernant.
+La confidentialité et la maîtrise de vos données restent une priorité. Depuis l'introduction de la fonctionnalité ArcadeShare (diffusion/casting en temps réel), certaines données techniques transitent désormais par un serveur relais pour permettre la synchronisation entre appareils. Cette politique a été mise à jour pour refléter précisément ce fonctionnement.
 
 1. Collecte de données personnelles
-Audio_Arcade ne collecte aucune donnée personnelle. Les fichiers audio que vous lisez via l’application ne sont ni stockés ni transmis. Ils sont traités uniquement localement sur votre appareil pendant leur lecture, puis supprimés immédiatement.
+Audio_Arcade ne collecte aucune donnée personnelle identifiante (nom, adresse, e-mail, historique d'écoute permanent, etc.).
+
+En usage normal (lecture locale), les fichiers audio et playlists sont traités exclusivement en local sur votre appareil.
+
+Lorsque vous activez volontairement la fonctionnalité ArcadeShare, certaines métadonnées techniques liées à la lecture en cours sont transmises temporairement à un serveur relais — voir Section 12 bis pour le détail exact.
 
 2. Utilisation des données
-Puisqu’aucune donnée personnelle n’est collectée, il n’y a aucune utilisation ou traitement de données.
+En dehors d'ArcadeShare, aucun traitement ni exploitation de données n'est effectué par Audio_Arcade.
+
+Pour ArcadeShare, les données transmises servent exclusivement à synchroniser l'affichage et la lecture entre les appareils participant à une même session de partage. Elles ne sont ni analysées, ni exploitées à d'autres fins (profilage, statistiques, publicité).
 
 3. Cookies et technologies similaires
-Audio_Arcade n’utilise pas de cookies ni d’autres technologies de suivi.
+Audio_Arcade n'utilise aucun cookie, traceur, SDK d'analyse ou technologie de suivi publicitaire.
 
 4. Partage des données avec des tiers
-Aucune donnée personnelle n’étant collectée, aucune donnée n’est partagée avec des tiers.
+Aucune donnée personnelle identifiante n'est partagée avec des tiers.
+
+Dans le cadre d'ArcadeShare, les métadonnées de lecture (titre, cover, position) sont partagées uniquement avec le(s) autre(s) appareil(s) participant à la même session de partage, via le serveur relais de l'éditeur. Aucune donnée n'est vendue, cédée ou transmise à des tiers commerciaux.
 
 5. Sécurité des données
-Puisqu’aucune donnée n’est collectée ni stockée sur nos serveurs, il n’y a pas de risques de fuite ou de violation de données.
+Audio_Arcade ne stocke aucune donnée personnelle de manière durable sur des serveurs distants.
 
-6. Modifications de la politique de vie privée
-Nous nous réservons le droit de modifier cette politique à tout moment. Toute modification sera publiée sur cette page avec une mise à jour de la date de modification. Il est recommandé de consulter cette page régulièrement.
+Le serveur relais utilisé par ArcadeShare traite les métadonnées de lecture uniquement de façon temporaire (voir Section 12 bis). En dehors de cette fonctionnalité, aucune donnée n'est stockée côté serveur.
 
-7. Avertissement concernant les applications/sites non officiels
-Audio_Arcade n’autorise ni n’héberge de plateformes tierces proposant des achats à l’argent réel.
+6. Propriété et responsabilité des fichiers utilisateurs
+Les fichiers audio, playlists et fichiers de playlist (y compris les fichiers .aarcade) utilisés dans Audio_Arcade :
 
-Toute application ou site revendiquant un lien avec nous et proposant des microtransactions ou des publicités liées à des paiements est une imitation frauduleuse.
+appartiennent exclusivement à l'utilisateur ;
+sont gérés, stockés et partagés sous l'entière responsabilité de l'utilisateur ;
+ne sont ni créés, ni hébergés, ni diffusés durablement par Audio_Arcade — seules certaines métadonnées transitent temporairement via ArcadeShare, dans les conditions décrites en Section 12 bis.
+Si un utilisateur choisit de publier, partager ou diffuser un fichier audio ou un fichier .aarcade sur un site externe, une plateforme ou un service tiers, Audio_Arcade ne saurait être tenu responsable de cette diffusion, ni de ses conséquences (droits d'auteur, licences, infractions légales, contenus illicites, etc.).
 
-Je vous invite à me signaler immédiatement toute fraude à l’adresse suivante : audio.arcade.app@gmail.com, en précisant l’URL ou en fournissant une capture d’écran.
+L'utilisateur est seul responsable du respect des lois et droits applicables aux contenus qu'il possède ou partage, y compris les visuels de pochette (cover art) transmis via ArcadeShare.
 
-Chaque signalement de fraude est systématiquement transmis aux autorités compétentes, notamment à la DGCCRF (Direction générale de la concurrence, de la consommation et de la répression des fraudes), afin de faire cesser ces pratiques illicites.
+7. Localisation des fichiers audio
+Les fichiers audio lus par Audio_Arcade restent strictement sur votre appareil.
 
-8. Délégué à la protection des données
-Conformément au RGPD, toute question ou réclamation relative au traitement de vos données personnelles peut être adressée à notre responsable à la vie privée :
+L'application :
 
-Nom : La_TNT (Développeur indépendant)
+ne copie pas les fichiers audio complets ;
+ne les transfère pas ;
+ne les sauvegarde sur aucun serveur externe.
+Exception ArcadeShare : lorsque cette fonctionnalité est activée, seules des métadonnées (titre, position de lecture, image de pochette si présente dans le fichier) transitent par le serveur relais — jamais le fichier audio lui-même, ni son contenu sonore.
+
+8. Absence de connexion Internet obligatoire
+Audio_Arcade fonctionne entièrement hors ligne pour la lecture audio locale.
+
+Une connexion Internet est facultative et peut être utilisée uniquement pour :
+
+vérifier des mises à jour ;
+accéder à un support ou à une fonctionnalité future explicitement annoncée ;
+utiliser la fonctionnalité ArcadeShare (diffusion/casting de votre musique vers un autre appareil).
+Aucune écoute en ligne ni transmission du fichier audio lui-même n'est effectuée. Seules les métadonnées nécessaires à ArcadeShare transitent par Internet lorsque cette fonctionnalité est utilisée.
+
+9. Connexion Internet facultative – fonctionnalités futures
+À l'avenir, d'autres fonctionnalités optionnelles pourront utiliser Internet (ex. : vérification d'intégrité de l'application).
+
+Ces mécanismes :
+
+ne transmettront aucun fichier audio ;
+ne collecteront aucune information personnelle identifiante ;
+serviront uniquement à garantir la sécurité, l'intégrité du logiciel, ou une fonctionnalité explicitement décrite comme ArcadeShare.
+10. Vérification d'intégrité de l'application
+Audio_Arcade pourra intégrer un mécanisme permettant de détecter si l'application a été modifiée, altérée ou piratée.
+
+Ce mécanisme :
+
+ne collecte aucune donnée utilisateur ;
+ne transmet ni fichiers, ni musique, ni playlists ;
+vise uniquement à protéger l'application contre les versions frauduleuses.
+En cas de violation des Conditions d'Utilisation, un bannissement de l'appareil pourra être appliqué.
+
+11. Blocage en cas de bannissement
+En cas de bannissement (version modifiée, usage frauduleux, violation grave), l'application pourra être rendue totalement inutilisable, y compris hors connexion.
+
+Cela peut inclure :
+
+le blocage de l'interface ;
+l'impossibilité de lire des fichiers audio locaux ;
+l'impossibilité d'utiliser ArcadeShare.
+12. Données non collectées de manière durable concernant les fichiers lus
+En usage local standard, Audio_Arcade ne collecte, n'analyse et ne conserve durablement aucune information concernant :
+
+les titres lus ;
+les durées ;
+les chemins d'accès ;
+les playlists ;
+les fichiers .aarcade.
+Toutes ces informations restent strictement locales, sauf lorsque l'utilisateur active ArcadeShare, auquel cas la Section 12 bis ci-dessous s'applique.
+
+12 bis. Fonctionnement de la fonctionnalité ArcadeShare (casting en temps réel)
+ArcadeShare permet de diffuser en temps réel l'état de lecture d'un appareil vers un ou plusieurs autres appareils (casting).
+
+Architecture : cette synchronisation passe par un serveur relais central, hébergé et opéré par l'éditeur (infrastructure auto-hébergée).
+
+Données transmises au serveur relais, uniquement lorsque ArcadeShare est activement utilisé :
+
+le titre (et artiste, si disponible dans les métadonnées du fichier) ;
+l'image de pochette (cover art), transmise automatiquement si elle est intégrée au fichier audio lu ;
+la position/progression de lecture ;
+un identifiant technique de session/appareil (non lié à une identité civile, utilisé uniquement pour router les données vers les bons appareils participants).
+Durée de conservation : ces données ne sont conservées sur le serveur relais que le temps de la lecture du morceau concerné. Elles ne sont pas archivées, journalisées durablement, ni réutilisées après la fin de la session de partage.
+
+Ce qui n'est jamais transmis : le fichier audio lui-même (aucun flux ni contenu sonore n'est envoyé au serveur), les autres fichiers ou playlists non actifs, ou toute information d'identité personnelle.
+
+Finalité exclusive : permettre l'affichage synchronisé (titre, cover, progression) sur les appareils participant à la session de partage. Aucune exploitation statistique, publicitaire ou de profilage n'est effectuée sur ces données.
+
+ArcadeShare est une fonctionnalité optionnelle ; elle ne s'active pas automatiquement et nécessite une action explicite de l'utilisateur.
+
+13. Aucune analyse ou suivi comportemental
+Aucun système d'analyse (Google Analytics, Firebase, équivalent) n'est intégré.
+
+Aucun suivi de comportement, même anonymisé, n'est effectué, y compris via ArcadeShare — les données de cette fonctionnalité servent uniquement au routage temps réel décrit en Section 12 bis.
+
+14. Applications et sites non officiels
+Audio_Arcade n'autorise aucune plateforme tierce proposant des achats à l'argent réel, publicités payantes ou microtransactions.
+
+Toute application ou site prétendant être affilié à Audio_Arcade et proposant ce type de contenu est une imitation frauduleuse.
+
+Tout signalement peut être envoyé à :
+
+📧 audio.arcade.app@gmail.com
+
+(avec URL ou capture d'écran)
+
+Les signalements graves sont transmis aux autorités compétentes (DGCCRF).
+
+15. Délégué à la protection des données
+Responsable : La_TNT – Développeur indépendant et Fondateur
 
 Contact : audio.arcade.app@gmail.com
 
-9. Droit de réclamation auprès de l’autorité de contrôle
-Si vous estimez que vos droits relatifs à vos données personnelles ne sont pas respectés, vous pouvez introduire une réclamation auprès de la CNIL (Commission nationale de l'informatique et des libertés)
+16. Droit de réclamation
+Vous pouvez déposer une réclamation auprès de la CNIL si vous estimez que vos droits ne sont pas respectés.
 
-10. Localisation des fichiers audio
-Les fichiers audio lus par Audio_Arcade restent exclusivement sur votre appareil. L'application ne copie, ne transfère ni ne sauvegarde ces fichiers vers un serveur externe.
+17. Engagement de transparence
+Toute évolution impactant la vie privée fera l'objet :
 
-Aucune donnée n'est envoyée à l’extérieur de votre appareil, garantissant une expérience 100 % locale et privée.
+d'une mise à jour de cette politique ;
+d'une notification visible dans l'application.
+18. Autorisations système (Android)
+L'application peut demander :
 
-11. Absence de connexion Internet obligatoire
-L'application fonctionne entièrement hors ligne. Aucun accès à Internet n'est requis pour lire vos fichiers, sauf si l’utilisateur utilise volontairement une fonctionnalité de mise à jour ou support intégré (si applicable dans l’avenir).
+l'accès au stockage local (lecture audio) ;
+l'autorisation de notification (mini-lecteur) ;
+l'accès réseau (utilisé uniquement pour les mises à jour et ArcadeShare).
+Aucune autre permission sensible n'est demandée.
 
-Cela contribue à minimiser les risques liés à la sécurité ou à la vie privée.
-
-12. Vérification d’intégrité de l’application
-À l’avenir, l’application pourra inclure un mécanisme permettant de vérifier automatiquement si l’application a été modifiée, altérée ou piratée.
-
-Ce mécanisme ne transmettra aucune donnée utilisateur (ni chansons lues, ni fichiers stockés). Il ne sert qu’à identifier l’intégrité du programme pour garantir la sécurité.
-
-En cas de détection d’une modification non autorisée, le serveur pourra déclencher un bannissement de l’appareil, conformément aux Conditions d'Utilisation.
-
-13. Connexion Internet facultative
-Audio_Arcade fonctionne principalement hors ligne. L'accès à Internet est facultatif, mais peut être utilisé pour :
-
-Vérifier les mises à jour disponibles
-Vérifier l’état du compte (banni/non banni)
-Transmettre des informations strictement nécessaires au bon fonctionnement (ex. : intégrité de l'application)
-Aucune écoute de musique en ligne ni transmission de données audio n'est effectuée, même si une connexion est active.
-
-14. Blocage de l’accès en cas de bannissement
-En cas de bannissement prononcé par nos services (notamment pour utilisation frauduleuse, version modifiée, ou violation des règles), l’application pourra être rendue totalement inutilisable, y compris hors connexion.
-
-Cela inclut :
-
-L'impossibilité d’ouvrir ou d’utiliser l’interface,
-Le blocage complet de la lecture des fichiers audio, même locaux.
-15. Données non collectées concernant les fichiers lus
-Audio_Arcade ne collecte, n'analyse ni ne transmet aucune donnée concernant les fichiers lus par l’utilisateur (titres, durées, chemins d’accès, etc.). Ces informations restent locales et privées, et ne sont à aucun moment envoyées à nos serveurs.
-
-16. Évolution future et engagement de transparence
-Tout ajout futur d’une fonctionnalité utilisant Internet, y compris la vérification d’intégrité, fera l’objet :
-
-D’une mise à jour explicite de la présente politique de vie privée
-D’une notification visible dans l’application
-
-17. Aucune analyse ou suivi comportemental
-Audio_Arcade ne contient aucun système d’analyse intégré (comme Google Analytics, Firebase, etc.). Aucun suivi des actions utilisateur, comportement d'écoute ou usage n'est effectué, même de manière anonymisée.
-
-18. Cas particulier : autorisations système Android
-Audio_Arcade peut nécessiter l'accès à votre stockage local pour lire les fichiers audio. Cette autorisation est utilisée uniquement à cette fin, ainsi qu'à l’autorisation de notification pour afficher un mini lecteur audio de la musique en cours.
-
-Aucune autre permission sensible (micro, contacts, position, caméra, etc.) n’est demandée ni exploitée.
-
-
-19. Engagement sur l'absence de publicité
-Audio_Arcade est garanti sans publicité, ni bannière, ni suivi publicitaire. Aucun SDK tiers de publicité n’est intégré.
-
+19. Absence totale de publicité
+Audio_Arcade est garanti sans publicité, sans traçage et sans SDK publicitaire.
 
 20. Contact
-Pour toute question concernant cette politique ou pour exercer vos droits, veuillez nous contacter à : audio.arcade.app@gmail.com
+Pour toute question concernant cette politique ou l'exercice de vos droits :
+
+📧 audio.arcade.app@gmail.com
+
+💡 En utilisant Audio_Arcade, y compris la fonctionnalité ArcadeShare, vous reconnaissez avoir pris connaissance du fonctionnement décrit ci-dessus et en être seul responsable pour les fichiers que vous ouvrez ou partagez.
