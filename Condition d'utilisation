@@ -1,104 +1,148 @@
-Conditions d'utilisation
-Conditions d'utilisation de Audio_Arcade
+Conditions d'Utilisation – Audio_Arcade
+Date d'entrée en vigueur : 24/11/2024
 
-Date d'entrée en vigueur : 24/11/2024.
+Date de modification : 09/07/2026
 
-Date de modification : 24/10/2025.
+Bienvenue sur Audio_Arcade.
 
-Bienvenue sur Audio_Arcade. En téléchargeant, en installant ou en utilisant cette application, vous acceptez de respecter ces Conditions d'Utilisation. Si vous n'acceptez pas ces conditions, veuillez ne pas utiliser l'application.
+En téléchargeant, installant ou utilisant cette application, vous acceptez sans réserve les présentes Conditions d'Utilisation, la Licence d'utilisation associée, la Politique de vie privée, ainsi que toutes les règles relatives aux formats et fonctionnalités proposés — y compris la fonctionnalité ArcadeShare décrite ci-dessous.
+
+Si vous n'acceptez pas ces conditions, veuillez ne pas utiliser l'application.
 
 1. Description de l'Application
-Audio_Arcade est une application dédiée à la lecture de fichiers audio sur votre appareil, offrant une interface simple pour gérer vos fichiers et vos préférences de lecture. L'application permet de lire des fichiers audio dans différents formats, y compris  MP3, WAV, MIDI. ​
+Audio_Arcade est une application dédiée à la lecture de fichiers audio, offrant une interface permettant de gérer des fichiers, des playlists et des préférences de lecture.
 
+L'application permet notamment :
+
+la lecture de fichiers audio (MP3, WAV, MIDI, et autres formats pris en charge) ;
+la gestion de playlists, y compris via le format propriétaire de playlist .aarcade ;
+l'organisation et la lecture locale de contenus audio ;
+la diffusion en temps réel de l'état de lecture entre appareils via la fonctionnalité ArcadeShare (voir Section 4 bis).
 2. Accès à l'Application
 Pour utiliser Audio_Arcade, vous devez :
 
-Télécharger l'application depuis une source officielle (Site officiel, Google Play Store, Microsoft Store, UnigetUI via Winget ou Scoop).
-Avoir un appareil compatible avec l'application.
-Accepter les mises à jour et modifications de l'application lorsque cela est nécessaire pour améliorer ses fonctionnalités.
+Télécharger l'application depuis une source officielle (site officiel, Google Play Store, Microsoft Store, UnigetUI via Winget ou Scoop) ;
+Disposer d'un appareil compatible ;
+Accepter les mises à jour et modifications nécessaires au bon fonctionnement de l'application.
+Toute version obtenue depuis une source non officielle est interdite.
+
 3. Conditions d'Utilisation
 En utilisant Audio_Arcade, vous vous engagez à :
 
-Utiliser l'application de manière légale, conformément aux lois applicables dans votre pays.
-Ne pas enfreindre les droits d'autrui, y compris les droits d'auteur et les droits de propriété intellectuelle.
-Ne pas tenter de contourner les systèmes de sécurité de l'application ou d'utiliser des méthodes non autorisées pour obtenir des fonctionnalités supplémentaires.
+Utiliser l'application de manière légale, conformément aux lois en vigueur ;
+Respecter les droits d'auteur et les droits de propriété intellectuelle, y compris sur les images de pochette diffusées via ArcadeShare ;
+Ne pas tenter de contourner les mécanismes de sécurité, de protection ou de licence ;
+Ne pas utiliser de méthodes non autorisées pour débloquer des fonctionnalités ;
+Ne pas utiliser ArcadeShare pour diffuser du contenu illicite, non autorisé ou portant atteinte aux droits de tiers.
 4. Droits de propriété intellectuelle
-L'application Audio_Arcade, ainsi que l'ensemble de ses éléments (y compris, sans s'y limiter, le code source, les éléments graphiques, les fichiers audio, les interfaces, les icônes, les logos, les emojis personnalisés et la marque "Audio_Arcade") sont la propriété exclusive de son créateur, La_TNT, et sont protégés par les lois françaises et internationales relatives au droit d’auteur et à la propriété intellectuelle.
+L'application Audio_Arcade, ainsi que l'ensemble de ses éléments, incluant notamment :
 
-Propriété des éléments visuels et contenus
-Tous les éléments visuels présents dans l'application (images, icônes, logos, emojis, etc.) sont protégés par le droit d’auteur.
+le code source,
+les interfaces utilisateur,
+les éléments graphiques et sonores,
+les icônes, logos, emojis personnalisés,
+la marque « Audio_Arcade »,
+le format propriétaire de fichier .aarcade, sa structure, sa logique et son fonctionnement,
+le SDK ArcadeShare, son architecture, son protocole de synchronisation et son infrastructure serveur,
+sont la propriété exclusive de La_TNT et sont protégés par les lois françaises et internationales relatives au droit d'auteur et à la propriété intellectuelle.
 
-Copyright © 2024–2025 Audio_Arcade. Tous droits réservés.
+Copyright © 2024–2026 Audio_Arcade. Tous droits réservés.
 
-Toute reproduction, modification, distribution ou utilisation, totale ou partielle, sans autorisation écrite préalable de l’auteur est strictement interdite et pourra faire l'objet de poursuites judiciaires.
+Toute reproduction, modification, imitation, extraction ou exploitation non autorisée pourra donner lieu à des poursuites judiciaires.
 
-Licence d’utilisation
-L'application est concédée sous une licence gratuite, personnelle, non exclusive, non transférable et révocable, uniquement pour un usage privé et non commercial.
+4 bis. Fonctionnalité ArcadeShare
+ArcadeShare est une fonctionnalité optionnelle permettant de diffuser en temps réel l'état de lecture (titre, pochette, progression) d'un appareil vers un ou plusieurs autres appareils, via un serveur relais opéré par l'éditeur.
 
+En utilisant ArcadeShare, vous reconnaissez et acceptez que :
+
+son fonctionnement nécessite une connexion Internet active ;
+certaines métadonnées de lecture transitent temporairement par le serveur relais de l'éditeur, dans les conditions décrites dans la Politique de vie privée (Section 12 bis) ;
+aucun fichier audio n'est stocké, diffusé en flux continu ou rendu accessible publiquement par ce mécanisme — seule la synchronisation de métadonnées est assurée ;
+vous restez seul responsable du contenu (titre, pochette) que vous diffusez via cette fonctionnalité, notamment au regard des droits d'auteur associés aux pochettes ou métadonnées intégrées à vos fichiers ;
+l'éditeur se réserve le droit de suspendre l'accès à ArcadeShare, en tout ou partie, notamment en cas d'usage abusif du serveur relais (surcharge, contournement, usage détourné).
+5. Licence d'utilisation
+Audio_Arcade est concédé sous une licence gratuite, personnelle, non exclusive, non transférable et révocable, uniquement pour un usage privé et non commercial.
+
+Vous êtes autorisé à :
+
+Installer et utiliser l'application sur vos appareils personnels ;
+Partager l'application gratuitement, sans modification ;
+Créer et utiliser des playlists personnelles, y compris via des fichiers .aarcade, dans le cadre strict de l'usage autorisé ;
+Utiliser ArcadeShare dans le cadre d'un usage privé et non commercial.
 Il est strictement interdit de :
 
-Modifier, adapter, traduire, désassembler, décompiler ou créer des œuvres dérivées basées sur l’application, sans l’autorisation écrite de l’auteur ;
-Redistribuer, vendre, louer, prêter ou diffuser l’application, en tout ou en partie, par quelque moyen que ce soit ;
-Extraire ou réutiliser les ressources graphiques ou sonores de l’application dans un autre projet.
-L’autorisation d’utiliser cette application est conditionnée au respect strict des présentes conditions.
+Modifier, adapter, traduire, décompiler, désassembler ou créer des œuvres dérivées basées sur l'application ou le SDK ArcadeShare ;
+Redistribuer, vendre, louer ou diffuser l'application, le format .aarcade ou le protocole ArcadeShare à des fins commerciales ;
+Reproduire, imiter ou exploiter le format .aarcade ou le protocole ArcadeShare en dehors de l'écosystème Audio_Arcade ;
+Extraire ou réutiliser les ressources graphiques ou sonores dans un autre projet ;
+Utiliser le serveur relais ArcadeShare à des fins autres que celles prévues par l'application (ex. : relais générique de données, contournement d'autres services).
+Toute violation entraîne la résiliation immédiate des droits d'utilisation.
 
-Toute violation entraînera la résiliation immédiate et sans préavis de vos droits d’utilisation.
+6. Collecte et utilisation des données
+La collecte et l'utilisation des données personnelles, ainsi que le fonctionnement détaillé d'ArcadeShare, sont régies par la Politique de vie privée d'Audio_Arcade.
 
+7. Limitation de responsabilité
+Audio_Arcade, les fichiers associés (y compris les fichiers .aarcade) et la fonctionnalité ArcadeShare sont fournis « en l'état », sans garantie d'aucune sorte.
 
-5. Collecte et Utilisation des Données
-Nous vous informons que la collecte de données personnelles est régie par notre Politique de vie privée. Nous collectons des informations dans le but d'améliorer votre expérience utilisateur. Pour plus de détails, consultez notre politique de vie privée.
+L'éditeur décline toute responsabilité en cas de :
 
-6. Limitation de Responsabilité
-Audio_Arcade est fourni "en l'état", et nous ne garantissons pas que l'application sera exempte d'erreurs ou d'interruptions. Nous ne serons pas responsables des dommages directs, indirects, accessoires ou consécutifs résultant de l'utilisation ou de l'impossibilité d'utiliser l'application.
+bugs, erreurs ou interruptions, y compris du serveur relais ArcadeShare ;
+perte de données ou de fichiers ;
+indisponibilité temporaire ou permanente du service de casting ;
+dommages directs ou indirects liés à l'utilisation ou à l'impossibilité d'utiliser l'application ou ArcadeShare.
+8. Mises à jour de l'Application
+Je me réserve le droit de mettre à jour, modifier ou suspendre tout ou partie de l'application, y compris ArcadeShare, à tout moment.
 
-7. Mises à Jour de l'Application
-Nous nous réservons le droit de mettre à jour, de modifier ou de suspendre certaines fonctionnalités de l'application à tout moment, sans préavis. Les utilisateurs devront accepter ces mises à jour pour continuer à utiliser l'application.
+L'acceptation des mises à jour peut être requise pour continuer à utiliser Audio_Arcade.
 
-8. Modifications des Condition d'utilisation
-Nous nous réservons le droit de modifier ces condition d'utilisation à tout moment. En cas de modification, la nouvelle version sera publiée ici avec une mise à jour de la date de modification. La date d'entrée en vigueur restera inchangée, sauf indication contraire. Il est de votre responsabilité de consulter cette page régulièrement pour prendre connaissance des éventuelles modifications.
+9. Modifications des Conditions, de la Licence et de la Politique de vie privée
+Les présentes Conditions d'Utilisation, la Licence et la Politique de vie privée peuvent être modifiées à tout moment.
 
+Les nouvelles versions seront publiées avec une mise à jour de la date de modification.
 
-9. Modifications de la Politique de vie privée
-Nous nous réservons le droit de modifier la politique de vie privée à tout moment. En cas de modification, la nouvelle version sera publiée sur la page de la politique de vie privée avec une mise à jour de la date de modification. La date d'entrée en vigueur restera inchangée, sauf indication contraire. Il est de votre responsabilité de consulter la page régulièrement pour prendre connaissance des éventuelles modifications.
+Il est de votre responsabilité de consulter régulièrement ces documents.
 
+10. Résiliation
+Je peux suspendre ou résilier votre accès à Audio_Arcade, y compris à ArcadeShare, en cas de non-respect des présentes conditions.
 
-10. Modifications de la Licence
-Nous nous réservons le droit de modifier notre Licence à tout moment. Il est de votre responsabilité de consulter cette page régulièrement pour prendre connaissance des éventuelles modifications.
+En cas de résiliation, tous les droits et licences accordés seront automatiquement révoqués.
 
+11. Sanctions en cas de non-respect
+En cas de violation des Conditions d'Utilisation, je me réserve le droit de :
 
-11. Résiliation
-Nous pouvons suspendre ou résilier votre accès à Audio_Arcade si vous enfreignez ces conditions d'utilisation. En cas de résiliation, toutes les licences et droits accordés sous ces conditions seront automatiquement révoqués.
+Suspendre ou bloquer l'accès à l'application ou à ArcadeShare sur toutes les plateformes ;
+Engager des actions légales pour atteinte aux droits d'auteur, contrefaçon ou violation de la propriété intellectuelle.
+12. Interdiction des versions non officielles
+Toute utilisation d'une version non officielle, modifiée, piratée ou altérée d'Audio_Arcade est strictement interdite, incluant notamment :
 
-12. Loi Applicable et Juridiction
-Ces conditions sont régies par les lois en vigueur en [France / Belgique / Québec / autre]. En cas de litige, compétence exclusive est attribuée aux tribunaux compétents de [ville ou région].
+APK ou exécutables modifiés ;
+versions issues de sources non autorisées ;
+versions intégrant des modifications de code ou de fonctionnalités ;
+toute tentative d'accès non autorisé au serveur relais ArcadeShare (ex. : appels API directs hors application officielle).
+Des poursuites judiciaires pourront être engagées en cas de violation grave.
 
-13. Sanctions en cas de non-respect des Conditions
-Si un utilisateur ne respecte pas les Conditions d'Utilisation de l'application Audio_Arcade, nous nous réservons le droit de :
+13. Loi applicable et juridiction
+Les présentes Conditions sont régies par le droit français.
 
-Suspendre ou bloquer l'accès de l'utilisateur à l'application sur toutes les plateformes où celle-ci est disponible.
-Entreprendre des actions légales, y compris porter plainte, pour toute violation des droits d'auteur, des droits de propriété intellectuelle ou de toute autre infraction en vertu de la législation applicable.
-L'utilisateur reconnaît et accepte que toute violation des conditions pourrait entraîner des sanctions légales, y compris des poursuites judiciaires, et que l'accès à l'application pourrait être restreint sans préavis.
+En cas de litige, compétence exclusive est attribuée aux tribunaux compétents de France.
 
-14. Interdiction des versions non officielles, modifiées ou piratées de l'application
-Toute utilisation d’une version non officielle, modifiée, piratée ou altérée de l’application Audio_Arcade est strictement interdite. Cela inclut, sans s’y limiter :
+14. Diffusion en lieu public (bar, discothèque, événement, etc.)
+Une autorisation SACEM est obligatoire. Pour la demander, utilisez https://clients.sacem.fr/ ou contactez la SACEM via https://clients2.sacem.fr/nous-contacter. Pour toute reproduction ou modification (mix enregistré, compilation, support numérique, etc.) : une autorisation SDRM peut être nécessaire : https://sdrm.sacem.fr/
 
-Les APK ou fichiers exécutables modifiés
-Les versions téléchargées depuis des sources non autorisées
-Les versions incluant des modifications de code ou de fonctionnalités
-Des poursuites judiciaires pourront être engagées en cas de violation grave des droits d’auteur ou de tentative de compromission de la sécurité du service.
+Cette obligation s'applique également lorsque la diffusion publique est réalisée via ArcadeShare.
 
-15. Mention Légale
-Éditeur : La_TNT 
+15. Mentions légales
+Éditeur : La_TNT
+
+Statut : Développeur indépendant et Fondateur
+
+Pays de domiciliation : France
 
 Contact : audio.arcade.app@gmail.com
 
-Pays de domiciliation : France 
-
-Statut : Développeur indépendant
-
-
-
 16. Contact
-Si vous avez des questions concernant ces Conditions d'Utilisation, veuillez nous contacter à l'adresse suivante :
+Pour toute question relative aux présentes Conditions d'Utilisation :
 
-audio.arcade.app@gmail.com 
+📧 audio.arcade.app@gmail.com
+
+💡 En utilisant Audio_Arcade et/ou en ouvrant un fichier .aarcade, et/ou en utilisant ArcadeShare, vous reconnaissez avoir pris connaissance de l'intégralité de ces Conditions et les accepter sans réserve.
